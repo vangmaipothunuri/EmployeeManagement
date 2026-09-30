@@ -1,0 +1,11 @@
+EMPLOYEE PAYROLL DETAILS
+========================
+Employee ID: 101
+Employee Name: vangmai
+Department: HR
+Basic Salary: 500000.0
+Total Working Days: 2
+Present Days: 2
+Absent Days: 0
+Attendance Percentage: 100.0
+Final Salary: 550000.0
